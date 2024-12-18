@@ -24,7 +24,7 @@ const teamMembers: TeamMember[] = [
       '안녕하세요. 23학번 2학년 고은이입니다. 웹 서버 보안 프로그래밍 수업을 통해 nextjs에 대해 배우고  웹 서비스를 제공하는 웹 사이트를 제작하는 것을 배우고 있습니다. 웹 이외에는 포렌식에 관심을 가지고 공부하고 있습니다.',
     github: 'https://github.com/goeuni',
     vercel: 'https://vercel.com/goeunis-projects',
-    portpolio: 'https://portfolio-goeunis-projects.vercel.app/', //
+    portpolio: 'https://profile-two-pi.vercel.app/', //
     image: '/img1.jpg',
   },
   {
@@ -48,7 +48,7 @@ const teamMembers: TeamMember[] = [
       '24학번으로 정보보호학과에 편입한 3학년 전성배입니다. 개발자와 보안 두 분야 모두 웹의 개발과정, 작동원리를 알아야 더 좋은 개발자가 될 수 있다는 이병천 교수님의 말씀대로 웹 서버 보안 프로그래밍을 수강하고 있습니다.',
     github: 'https://github.com/sung0125',
     vercel: 'https://vercel.com/sungbae-jeons-projects',
-    portpolio: 'https://jb-next-js.vercel.app/',
+    portpolio: 'https://final-portfolio-psi-puce.vercel.app/',
     image: '/img3.jpg',
   },
   {
